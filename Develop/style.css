@@ -12,6 +12,11 @@ body,
   padding: 0;
 }
 
+/* delete this later*/
+.madeUpClass {
+  position: static;
+}
+
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
